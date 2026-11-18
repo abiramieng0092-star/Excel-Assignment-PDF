@@ -1,23 +1,44 @@
-Assignment 2 -Excel Data Cleaning a messy dataset in EXCEL and making it ready for analysis.
+                          E-COMMERCE DATA SALES ANALYSIS
+                        
+                                
 
-This assignment is about cleaning a messy dataset in EXCEL and making it ready for analysis.
+*Project Overview:*
+This project analyses E-commerce sales data using Microsoft Excel. Data was cleaned, analysed with Formulas, Pivot Tables and visualized with an Interactive Dashboard.
 
-Files in this Repository
-  1.Assignment 2 -EXCEL Data Cleaning and Transformation project(2).xls -cleaned EXCEL File 
-  2.EXCEL Assignment project,pdf -project Report PDF
+Files Included:
+1. Ecommerce_Sales_Analysis.xlsx - Main Excel file with cleaned data, Formulas, Pivot Tables and Dashboard
+2. Ecommerce_Sales_Analysis.pdf - Summary + Dashboard Screenshot
 
-Steps I Did
-  1. I removed duplicate rows from the dataset
-  2. I Changed the Date colum to   DD-MM-YYYY Format
-  3. I Merged product and Brand columns to create product Brand
-  4. I applied Red colour for Electronics category
-  5. I applied Blue Date Bars for price column to show comparison easily
-  6. I Cheked for missing values and cleaned the data
+Excel Sheets:
+- Customer_Dim - Customer Details
+- Store_Dim - Store Details
+- Product_Dim - Product Details
+- Sales_Fact - Main Sales Transactions
+- Pivot-Table - Summary Tables
+- Statistics - Formulas and Descriptive Statistics
+- Dashboard - Charts and Slicers
 
-Tools Used 
-   Microsoft EXCEL
+ Formula Used:
+SUM, COUNTA, AVERAGE, MEDIAN, MODE, STDEV, MIN, MAX, IF, TEXT, XLOOKUP, TRIM
 
-CONCLUSION
-   After cleaning ,the dataset is now clean, organized and ready for analysis.
+Key Findings:
+Total Sales: Rs. 21,72,983.59
+Total Profit: Rs. 4,34,596.72
+Total Orders: 2000
+Best Category: Sports
+Best Month: Mar-25
 
+Tools Used:
+Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
+
+How to Use:
+1. Open Excel file
+2. Check Sales_Fact for cleaned data
+3. Check Statistics for formulas
+4. Check Dashboard and use Slicers to filter by Year and Month.
+
+
+
+
+*Ma! README Ma - Venum Ma - na Ma - Sollunga Ma - Naan Ma - Full Ma - va Ma - Ready Ma - Panni Ma - Tharen Ma!*
 
