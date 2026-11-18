@@ -38,7 +38,3 @@ How to Use:
 4. Check Dashboard and use Slicers to filter by Year and Month.
 
 
-
-
-*Ma! README Ma - Venum Ma - na Ma - Sollunga Ma - Naan Ma - Full Ma - va Ma - Ready Ma - Panni Ma - Tharen Ma!*
-
